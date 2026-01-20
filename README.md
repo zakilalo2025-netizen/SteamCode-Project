@@ -13,3 +13,4 @@ Auto-Save: Valid codes are automatically logged and sent to your configured Disc
 Assets Folder: Must contain steam_bg.png for the background blur effect to work.
 
 Stable Connection: Required for GitHub license checks and Steam API requests.
+To get a code visit this code discord : https://discord.gg/QNNs4ePr
